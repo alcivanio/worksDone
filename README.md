@@ -4,7 +4,8 @@ There is a short list of some projects or research I worked in and collaborate.
 > *I'll provide a link for some of them that still in the air ;)*
 
 
-######iOS apps
+###iOS apps
+You can see below a list of some apps that I build or colaborated to built. 
 
 | Name | Description | Code | Design | Link |
 |---|---|:---:|:---:|---|
@@ -18,7 +19,8 @@ There is a short list of some projects or research I worked in and collaborate.
 
 
 
-######Webistes
+###Websites
+I created some websites using technologies as PHP, WordPress, HTML5, CSS3 and JavaScript. 
 
 | Name | Description | Code | Design | Link |
 |---|---|:---:|:---:|---|
@@ -29,7 +31,8 @@ There is a short list of some projects or research I worked in and collaborate.
 |**Busão Legal**|A landing page of the Busão Legal, an app that aims to track buses and buses drivers|:heavy_check_mark:||[Link here](http://busaolegal.com.br)|
 
 
-######Research
+###Research
+I also worked in a research project :)
 
 | Name | Description | Link |
 |---|:---:|---|
