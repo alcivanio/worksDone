@@ -1,5 +1,5 @@
 # Works Done!
-There is a short list of some projects or research I worked in and collaborate. 
+I organize some list of works I did colaborate. Below you'll see some tables with these works, categorized by iOS apps, websites and research projects. In some of them I let you know where I actuated (coding and designing), I putted some links and a short description for each project. To get more informations about me, please, take a look in my [LinkedIn](http://linkedin.com/in/alcivanio) account. 
 
 
 ###iOS apps
