@@ -1,8 +1,6 @@
 # Works Done!
 There is a short list of some projects or research I worked in and collaborate. 
 
-> *I'll provide a link for some of them that still in the air ;)*
-
 
 ###iOS apps
 You can see below a list of some apps that I build or colaborated to built. 
